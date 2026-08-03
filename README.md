@@ -1,4 +1,4 @@
-# 🧑‍💻 Abhyas Python Solutions
+#  Abhyas Python Solutions
 
 [![Language](https://shields.io)](https://python.org)
 [![Platform](https://shields.io)](https://abhyas.ai)
@@ -10,7 +10,7 @@ The core goal of this repository is to systematically sharpen logical reasoning,
 
 ---
 
-## 🛠️ Tech Stack & Concepts Covered
+##  Tech Stack & Concepts Covered
 
 * **Core Language:** Python 3.x
 * **Core Topics:**
@@ -21,28 +21,28 @@ The core goal of this repository is to systematically sharpen logical reasoning,
 
 ---
 
-## 📂 Project Architecture & Catalog
+##  Project Architecture & Catalog
 
 <details>
 <summary><b>Click to expand the complete list of solved problems</b></summary>
 
-### 📈 Array Mechanics
+###  Array Mechanics
 - **Array Aggregations:** Array Sum, Min/Max Isolation, Extremum Summations (Min + Max).
 - **Search & Identification:** Linear Key Extraction, Element Existence Verification.
 - **Duplicate & Pattern Control:** Single Duplicate Identification, In-Place Sorted Array Deduplication (Two-Pointer Method).
 - **Missing Elements:** Mathematical Sum Differencing ($O(N)$ Time, $O(1)$ Space).
 
-### 🔢 Mathematical Optimization
+###  Mathematical Optimization
 - **Primality Trackers:** Prime Number Array Extractions, Dynamic Prime Counting (Sieve Optimization).
 
-### 🔤 String Manipulation
+### String Manipulation
 - **Structural Reversals:** Word-by-Word Sentence Reversals (Delimiter Preservation).
 
 </details>
 
 ---
 
-## 🚀 Local Installation & Execution
+##  Local Installation & Execution
 
 ### 1. Clone the Architecture
 ```bash
@@ -64,7 +64,7 @@ python array_deduplicate.py < input_test_case.txt
 
 ---
 
-## 📈 Engineering Roadmap & Progress
+##  Engineering Roadmap & Progress
 
 - [x] Complete foundational Array mechanics (Searching, Aggregates, Space-Constrained Operations).
 - [x] Implement robust I/O filtering to bypass platform-specific trailing character issues.
@@ -73,12 +73,8 @@ python array_deduplicate.py < input_test_case.txt
 
 ---
 
-## 👩‍💻 System Engineer Info
+##  System Engineer Info
 
 **Sithalapu Sujana**
 * **GitHub Profile:** [@sithalapu-sujana](https://github.com/sithalapu-sujana)
 * **Objective:** Developing clean, production-grade codebase documentation and core problem-solving proficiencies.
-
----
-⭐ *If this technical structural reference added value to your placement preparation, feel free to drop a star!*
-

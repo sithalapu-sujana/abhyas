@@ -1,109 +1,84 @@
-Here's a professional **README.md** for your **Abhyas Python Solutions** GitHub repository.
-
-````markdown
 # 🧑‍💻 Abhyas Python Solutions
 
-This repository contains my Python solutions to programming problems solved on the **Abhyas Lab** platform.
+[![Language](https://shields.io)](https://python.org)
+[![Platform](https://shields.io)](https://abhyas.ai)
+[![Progress](https://shields.io)](#-progress)
 
-The purpose of this repository is to improve my problem-solving skills, strengthen Python fundamentals, and prepare for coding rounds and technical interviews.
+This repository serves as a centralized collection of my optimized Python solutions to algorithms, data structures, and mathematical programming challenges solved on the **Abhyas Lab** platform. 
 
----
-
-## 📂 Repository Structure
-
-Some of the solved problems include:
-
-- Array Sum
-- Maximum Element in Array
-- Minimum Element in Array
-- Missing Element in Array
-- Duplicate Element in Array
-- Remove Duplicate Elements
-- Linear Search (Key Element Found)
-- Prime Numbers in Array
-- Count Prime Numbers
-- Reverse Words in a Sentence
-- Sort an Array
-- Sum of Largest and Smallest Element
-- and many more...
+The core goal of this repository is to systematically sharpen logical reasoning, master structural execution in Python, and build a production-ready baseline for technical placement rounds and algorithmic engineering interviews.
 
 ---
 
-## 🛠️ Language Used
+## 🛠️ Tech Stack & Concepts Covered
 
-- Python 3
-
----
-
-## 📚 Topics Covered
-
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Loops
-- Conditional Statements
-- Prime Numbers
-- Basic Mathematics
-- Pattern Problems
-- Input & Output Handling
+* **Core Language:** Python 3.x
+* **Core Topics:**
+    * **Data Structures:** 1D & 2D Arrays (Matrices), Slicing, Dynamic Lists, Set Tracking.
+    * **Algorithms:** Two-Pointer Modifications, Linear & Binary Search, Native Sorting, In-Place Shifting.
+    * **Mathematics:** Primality Testing (Square Root Optimization), Sequence Math, Aggregate Computations.
+    * **Strings & I/O:** Word Reversal, IO Stream Stream-Parsing (`sys.stdin.read`), Edge-Case Whitespace Buffering.
 
 ---
 
-## 🎯 Objective
+## 📂 Project Architecture & Catalog
 
-- Practice Python programming daily.
-- Improve logical thinking.
-- Prepare for placement coding rounds.
-- Build a strong GitHub coding portfolio.
+<details>
+<summary><b>Click to expand the complete list of solved problems</b></summary>
+
+### 📈 Array Mechanics
+- **Array Aggregations:** Array Sum, Min/Max Isolation, Extremum Summations (Min + Max).
+- **Search & Identification:** Linear Key Extraction, Element Existence Verification.
+- **Duplicate & Pattern Control:** Single Duplicate Identification, In-Place Sorted Array Deduplication (Two-Pointer Method).
+- **Missing Elements:** Mathematical Sum Differencing ($O(N)$ Time, $O(1)$ Space).
+
+### 🔢 Mathematical Optimization
+- **Primality Trackers:** Prime Number Array Extractions, Dynamic Prime Counting (Sieve Optimization).
+
+### 🔤 String Manipulation
+- **Structural Reversals:** Word-by-Word Sentence Reversals (Delimiter Preservation).
+
+</details>
 
 ---
 
-## 🚀 How to Run
+## 🚀 Local Installation & Execution
 
-Clone the repository:
-
+### 1. Clone the Architecture
 ```bash
 git clone https://github.com/sithalapu-sujana/abhyas.git
-```
-
-Go to the project folder:
-
-```bash
 cd abhyas
 ```
 
-Run any Python program:
-
+### 2. Run an Algorithmic Module
+Execute any script by feeding inputs via the command line or relying on native input interfaces:
 ```bash
-python filename.py
+python unique_primes.py
 ```
 
-Example:
-
+### 3. Pipeline Mock Testing (Optional)
+To test scripts exactly how the online platform judges them using custom text inputs:
 ```bash
-python sort_arr.py
+python array_deduplicate.py < input_test_case.txt
 ```
 
 ---
 
-## 📈 Progress
+## 📈 Engineering Roadmap & Progress
 
-✔ Solving Abhyas coding problems regularly.
-
-This repository will be updated with new solutions as I continue practicing.
+- [x] Complete foundational Array mechanics (Searching, Aggregates, Space-Constrained Operations).
+- [x] Implement robust I/O filtering to bypass platform-specific trailing character issues.
+- [ ] Scale up to advanced Multi-Dimensional Matrix transformations.
+- [ ] Integrate automated edge-case assertion checks across scripts.
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 System Engineer Info
 
 **Sithalapu Sujana**
-
-- GitHub: https://github.com/sithalapu-sujana
+* **GitHub Profile:** [@sithalapu-sujana](https://github.com/sithalapu-sujana)
+* **Objective:** Developing clean, production-grade codebase documentation and core problem-solving proficiencies.
 
 ---
+⭐ *If this technical structural reference added value to your placement preparation, feel free to drop a star!*
 
-⭐ If you find this repository useful, feel free to star it.
-````
-
-This README is clean, professional, and suitable for placement portfolios and GitHub.

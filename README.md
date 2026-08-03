@@ -12,12 +12,5 @@ This repository contains my personal Python solutions to programming problems so
 * **Mathematics:** Prime numbers, optimization checks, and sequence totals.
 
 ---
-
-##  Author
-
-**Sithalapu Sujana**
-* **GitHub:** [@sithalapu-sujana](https://github.com)
-
----
  *Feel free to star this repository if you find these solutions helpful!*
 

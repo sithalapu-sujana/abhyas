@@ -1,9 +1,5 @@
 #  Abhyas Python Solutions
 
-[![Language](https://shields.io)](https://python.org)
-[![Platform](https://shields.io)](https://abhyas.ai)
-[![Progress](https://shields.io)](#-progress)
-
 This repository serves as a centralized collection of my optimized Python solutions to algorithms, data structures, and mathematical programming challenges solved on the **Abhyas Lab** platform. 
 
 The core goal of this repository is to systematically sharpen logical reasoning, master structural execution in Python, and build a production-ready baseline for technical placement rounds and algorithmic engineering interviews.
